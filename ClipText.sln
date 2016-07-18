@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipText", "ClipText\ClipText.csproj", "{0C2CFDFC-DBC9-46CC-B6BF-976264E1994C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipTextWPF", "ClipText\ClipTextWPF.csproj", "{0C2CFDFC-DBC9-46CC-B6BF-976264E1994C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipTextWF", "ClipTextWF\ClipTextWF.csproj", "{6F21B82E-0180-4712-8C65-4409FF9F4EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipTextBase", "ClipTextBase\ClipTextBase.csproj", "{B5D8BF0F-EF08-49BA-9E1A-84482449C526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0C2CFDFC-DBC9-46CC-B6BF-976264E1994C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2CFDFC-DBC9-46CC-B6BF-976264E1994C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2CFDFC-DBC9-46CC-B6BF-976264E1994C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F21B82E-0180-4712-8C65-4409FF9F4EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F21B82E-0180-4712-8C65-4409FF9F4EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F21B82E-0180-4712-8C65-4409FF9F4EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F21B82E-0180-4712-8C65-4409FF9F4EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D8BF0F-EF08-49BA-9E1A-84482449C526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D8BF0F-EF08-49BA-9E1A-84482449C526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D8BF0F-EF08-49BA-9E1A-84482449C526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D8BF0F-EF08-49BA-9E1A-84482449C526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
